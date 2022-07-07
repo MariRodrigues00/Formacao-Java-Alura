@@ -1,4 +1,5 @@
-//First try of a programme which calculates the income tax rate deduction, according to your salary. It enables someone to easily check how much discount they would have, as long as their salary is between R$1900 and R$4664. This first try was made with IF/ELSE and lots of variables.
+//First try of a programme which calculates the income tax rate deduction, according to your salary. It enables someone to easily check how much discount they would
+//have, as long as their salary is between R$1900 and R$4664. This first try was made with IF/ELSE and lots of variables.
 
 
 public class AliquotaComCondicionais {
